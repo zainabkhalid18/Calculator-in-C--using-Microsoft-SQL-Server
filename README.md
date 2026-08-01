@@ -1,1 +1,1 @@
-# Calculator-in-C-using-Microsoft-SQL-Server
+# Calculator-in-C#-using-Microsoft-SQL-Server
