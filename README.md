@@ -22,12 +22,14 @@ A GUI-based calculator built in C# (Windows Forms) that performs basic and advan
 
 ## Project Structure
 
-├── MyCalculator/ # C# Windows Forms application
-│ ├── Form1.cs # Main calculator UI logic
-│ ├── Program.cs # Application entry point
-│ └── DbLabAssignment.sln # Visual Studio solution file
-├── mycalculator.bacpac # Database backup file (CalculatorDB)
+```
+├── MyCalculator/              # C# Windows Forms application
+│   ├── Form1.cs                # Main calculator UI logic
+│   ├── Program.cs              # Application entry point
+│   └── DbLabAssignment.sln     # Visual Studio solution file
+├── mycalculator.bacpac         # Database backup file (CalculatorDB)
 └── README.md
+```
 
 ## Prerequisites
 
